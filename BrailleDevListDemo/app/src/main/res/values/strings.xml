@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Démo appli liste</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="brand">Brand</string>
+    <string name="series">Series</string>
+    <string name="nbcells">Cells</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
